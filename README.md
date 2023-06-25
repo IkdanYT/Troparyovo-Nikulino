@@ -1,4 +1,6 @@
-# Панорама района "Тропарёво-Никулино" в Москве
+## Русский
+
+### Панорама района "Тропарёво-Никулино" в Москве
 
 [![Панорама](https://ikdanyt.github.io/Troparyovo-Nikulino/)](https://ikdanyt.github.io/Troparyovo-Nikulino/)
 
@@ -18,3 +20,26 @@
 - **ЖК CITIMIX** - ещё один современный жилой комплекс, предлагающий комфортное проживание и удобства для жителей.
 
 Панорама района "Тропарёво-Никулино" предлагает вам уникальную возможность ознакомиться с этим прекрасным районом Москвы и насладиться его видами. Приятного просмотра!
+
+## English
+
+### Panorama of "Troparyovo-Nikulino" District in Moscow
+
+[![Panorama](https://ikdanyt.github.io/Troparyovo-Nikulino/)](https://ikdanyt.github.io/Troparyovo-Nikulino/)
+
+Welcome to the panorama of the "Troparyovo-Nikulino" district! Here you can see many interesting places and landmarks. The panorama was taken from a height of 500 meters using a DJI Mini 3 Pro drone, allowing you to enjoy the stunning views of the surroundings.
+
+In this panorama, you can see:
+
+- **MSU** (Moscow State University) - one of the most prestigious and beautiful universities in Russia.
+- **Moscow-City** - a modern business complex that includes tall skyscrapers and office buildings.
+- **Ozyornaya Metro Station** and **Yugo-Zapadnaya Metro Station** - convenient metro stations providing connections to other areas of Moscow.
+- **Olympic Village Park** - a beautiful place for walks and relaxation, where you can enjoy the fresh air and greenery.
+- **Troparyovsky Forest Park** - another lovely park where you can take a stroll along scenic paths and enjoy nature.
+- **Mirax Park Residential Complex** and **Kvartal na Nikulinskoy Residential Complex** - modern residential complexes offering comfortable living and amenities for residents.
+- **Meshchersky Park** - another green area where you can escape the hustle and bustle of the city and enjoy nature.
+- **Ochakovka River** - a picturesque river that flows through this district, creating a unique atmosphere.
+- **Schoolchildren's Park** - a great place for active recreation, where you can engage in sports or simply spend time with friends.
+- **CITIMIX Residential Complex** - another modern residential complex offering comfortable living and amenities for residents.
+
+The panorama of the "Troparyovo-Nikulino" district provides you with a unique opportunity to explore this beautiful area of Moscow and enjoy its views. Enjoy your viewing experience!
